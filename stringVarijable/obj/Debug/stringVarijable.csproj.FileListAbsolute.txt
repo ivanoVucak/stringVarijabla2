@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\stringVarijable\bin\Debug\stringVarijable.exe.config
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\stringVarijable\bin\Debug\stringVarijable.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\stringVarijable\bin\Debug\stringVarijable.pdb
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\stringVarijable\obj\Debug\stringVarijable.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\stringVarijable\obj\Debug\stringVarijable.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\stringVarijable\obj\Debug\stringVarijable.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\stringVarijable\obj\Debug\stringVarijable.exe
+C:\Users\ucenik\Desktop\LukaP\Završna vježba\stringVarijable\obj\Debug\stringVarijable.pdb
